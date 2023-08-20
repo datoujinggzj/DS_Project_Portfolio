@@ -14,7 +14,7 @@
 | [Yelp Data Analysis](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/Yelp_Data_Analysis) | [Link](https://drive.google.com/drive/folders/1IjAxEdUHANtt-gs9AuF-hoKSQv8bxK-X?usp=drive_link) |
 
 <p>
-  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/08f41980-091c-4534-889e-bd8adbb1cb88" alt="Image" width="400" height="260">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/08f41980-091c-4534-889e-bd8adbb1cb88" alt="Image" width="400" height="250">
 </p>
 
 
@@ -44,6 +44,12 @@
 
 
 ## Empowering User Experience - Optimizing Product Recommendations through AB Testing and UI Enhancements
+
+
+<p>
+  <img src="https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg" alt="Image" width="400" height="250">
+</p>
+
 
 **Collaborated with Engineering Teams and Delivered Winning A/B Tests**
 
