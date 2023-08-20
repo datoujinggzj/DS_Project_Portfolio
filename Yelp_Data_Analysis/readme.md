@@ -1,4 +1,4 @@
-# Yelp Data Analysis
+# Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -24,6 +24,7 @@ Overall, the Yelp dataset is a valuable resource for anyone interested in explor
 ## About Dataset
 
 ![image-20230505225633404](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/51f0736c-5d6b-4f78-b20c-72248215a1de)
+
 
 
 This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the most recent dataset you'll find information about businesses across 8 metropolitan areas in the USA and Canada.
@@ -60,9 +61,9 @@ In summary, using the Yelp dataset for data analysis can provide insights into t
 
 ### Business Types and Locations
 
-![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/6dfa5d47-ffdf-4924-86de-df528b12808b)
-
-
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/6dfa5d47-ffdf-4924-86de-df528b12808b" alt="Image" width="400" height="400">
+</p>
 
 We can analyze the number and distribution of businesses in different cities or regions, and understand which types of businesses are most popular and which areas have more businesses. This can help the platform and businesses understand market demand and competition. For example, we can analyze the business category and location information in the Yelp Business dataset, and determine the most popular business types and the most popular business districts in a city or region.
 
@@ -98,8 +99,9 @@ In addition, sentiment analysis can also be used to predict future user behavior
 
 ### Network & Community Detection
 
-![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/1e0f9c49-286c-49c0-ba40-b460b5b719a4)
-
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/1e0f9c49-286c-49c0-ba40-b460b5b719a4" alt="Image" width="400" height="400">
+</p>
 
 It involves using network analysis techniques to identify groups of businesses or users that are closely related to each other based on their interactions on the platform. By doing so, we can identify communities of businesses or users that share similar interests, preferences, or behaviors, and use this information to better understand the dynamics of the Yelp platform.
 
