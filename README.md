@@ -1,12 +1,5 @@
 # DS Projects Portfolio
 
-- [Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset](#Unveiling_Business_Insights_A_Comprehensive_Data_Analysis_of_Yelp_Dataset)
-
- 
-- [Empowering User Experience - Optimizing Product Recommendations through AB Testing and UI Enhancements](#Empowering_User_Experience_Optimizing_Product_Recommendations_through_AB_Testing_and_UI_Enhancements)
-
-
-
 ## Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset ![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/b791ea9e-195e-4107-b665-49d060becf52)
 
 | Project Detail | Data Link |
