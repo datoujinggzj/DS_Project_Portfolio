@@ -5,6 +5,12 @@
 
 <img src="https://www.researchgate.net/publication/224075956/figure/fig1/AS:644283367428096@1530620533188/Architecture-of-the-News-Recommendation-System.png" alt="Architecture of the News Recommendation System | Download Scientific Diagram" style="zoom:67%;" />
 
+
+<p align="center">
+  <img src="https://www.researchgate.net/publication/224075956/figure/fig1/AS:644283367428096@1530620533188/Architecture-of-the-News-Recommendation-System.png" alt="Image" width="400" height="400">
+</p>
+
+
 ## Background
 
 This project aims to enhance the user experience and satisfaction in news reading by developing a personalized news recommendation system. With the vast amount of news content available online, users often struggle to find news that is relevant to their interests. Therefore, building an efficient and accurate news recommendation system is crucial for improving user engagement and loyalty.
