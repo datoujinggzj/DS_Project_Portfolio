@@ -2,13 +2,7 @@
 
 # News Recommendation System
 
-
-<img src="https://www.researchgate.net/publication/224075956/figure/fig1/AS:644283367428096@1530620533188/Architecture-of-the-News-Recommendation-System.png" alt="Architecture of the News Recommendation System | Download Scientific Diagram" style="zoom:67%;" />
-
-
-<p align="center">
-  <img src="https://www.researchgate.net/publication/224075956/figure/fig1/AS:644283367428096@1530620533188/Architecture-of-the-News-Recommendation-System.png" alt="Image" width="400" height="400">
-</p>
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/ed20749b-7174-47c7-b298-5982292b1597)
 
 
 ## Background
@@ -57,7 +51,12 @@ Overall, the challenges of implementing a news recommendation system require a c
 - `articles.csv`: News article information dataset containing detailed information about all news articles.
 - `articles_emb.csv`: News article embedding vector representation dataset containing embedding vector representations for each article.
 
-<img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230502164332716.png" alt="image-20230502164332716" style="zoom: 50%;" />
+
+
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/16968586-d844-4aae-90be-5eca727fdb86" alt="Image" width="400" height="400">
+</p>
+
 
 ### Evaluation
 
@@ -103,8 +102,6 @@ Secondly, the reciprocal nature of the metric gives equal weight to all clicked 
 9. The time intervals between when different users click on articles may also vary, reflecting differences in their preferences for article timeliness.
 
 ### Multiple Recall
-
-<img src="http://ryluo.oss-cn-chengdu.aliyuncs.com/abc/image-20201119132726873.png" alt="image-20201119132726873" style="zoom: 50%;" />
 
 ### item-cf
 
@@ -156,11 +153,19 @@ Cons:
 - User CF is prone to the popularity bias, where popular items are recommended more frequently than less popular items.
 - User CF may not be able to capture long-term preferences or changes in user preferences over time.
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*QvhetbRjCr1vryTch_2HZQ.jpeg" alt="Recommender Systems — User-Based and Item-Based Collaborative Filtering |  by Carlos Pinela | Medium" style="zoom:50%;" />
+
+
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/ac09c35e-dbe0-4455-a119-380587b5607c" alt="Image" width="400" height="230">
+</p>
+
 
 ### Youtube DNN
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*z2d15DN_eaiEMQeIhu-aAw.png" alt="YouTubeの推薦アルゴリズムの変遷を追う〜深層学習から強化学習まで〜 | by Jun Ernesto Okumura | Eureka  Engineering | Medium" style="zoom:50%;" />
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*z2d15DN_eaiEMQeIhu-aAw.png" alt="Image" width="400" height="230">
+</p>
 
 #### Description
 
@@ -192,7 +197,13 @@ Disadvantages:
 
 ### Dual Tower
 
-<img src="https://camo.githubusercontent.com/6a0d127e800733fe6dd66a86061456c391f646ce097371b9b62bd58c805070e5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f7377616c6c6f776e312f626c6f67696d61676573406d61696e2f696d616765732f696d6167652d32303232303532323135323530383832342e706e67" alt="fun-rec/DSSM.md at master · datawhalechina/fun-rec · GitHub" style="zoom:50%;" />
+
+
+
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/beb21227-d0f0-4b61-a258-eca0e079bcfa" alt="Image" width="400" height="330">
+</p>
+
 
 #### Description
 
@@ -224,7 +235,12 @@ Cons:
 
 ### Cold Start
 
-<img src="https://picx.zhimg.com/v2-72b9dc2ebe1f0b3bb8f374d4fa921c15_720w.jpg?source=172ae18b" alt="推荐系统》系列之三：一文读懂冷启动推荐- 知乎" style="zoom:67%;" />
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/6e0a6dcc-0bbc-4d98-8ef1-2c2fb2196237" alt="Image" width="400" height="230">
+</p>
+
+
+
 
 #### Description
 
@@ -262,7 +278,12 @@ Cons:
 
 ## Feature Engineering
 
-<img src="https://editor.analyticsvidhya.com/uploads/31896diagram.png" alt="Feature Engineering | What is Feature Engineering" style="zoom:67%;" />
+
+
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/27f28afe-ca64-49fe-9b8a-219e06367a8e" alt="Image" width="400" height="230">
+</p>
+
 
 Some of the features that can be directly utilized from the given raw data include:
 
