@@ -1,9 +1,6 @@
-推荐系统
-
-# News Recommendation System
+# News Intelligence - Unleashing the Potential of User History for Click Prediction
 
 ![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/ed20749b-7174-47c7-b298-5982292b1597)
-
 
 ## Background
 
