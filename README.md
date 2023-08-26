@@ -5,11 +5,17 @@
 - Revolutionizing Cash Flow Forecasts - A Paradigm Shift in Purchase and Redemption Predictions
 - News Intelligence - Unleashing the Potential of User History for Click Prediction
 
-## Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset ![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/b791ea9e-195e-4107-b665-49d060becf52)
 
 | Project Detail | Data Link |
-|:----------------:|:----------:|
+|:---------------:|:---------:|
 | [Yelp Data Analysis](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/Yelp_Data_Analysis) | [Link](https://drive.google.com/drive/folders/1IjAxEdUHANtt-gs9AuF-hoKSQv8bxK-X?usp=drive_link) |
+| [Cashflow Forecasting](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/CashFlow_Forecasting) | [Link](https://drive.google.com/drive/folders/1Y0ts5BbmGLXMe9WSRl_d-LI45MWEFa4o?usp=drive_link) |
+| [News RecSys](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/recommender_system) | [Link](https://drive.google.com/drive/folders/1LrT2WKYZksDkVkp710fpFRZVIwu9PAxf?usp=drive_link) |
+
+
+
+## Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset ![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/b791ea9e-195e-4107-b665-49d060becf52)
+
 
 <p>
   <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/08f41980-091c-4534-889e-bd8adbb1cb88" alt="Image" width="400" height="250">
