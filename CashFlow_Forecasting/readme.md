@@ -1,7 +1,8 @@
 # Revolutionizing Cash Flow Forecasts - A Paradigm Shift in Purchase and Redemption Predictions
 
-<img src="https://www.freshbooks.com/wp-content/uploads/2021/09/cash-inflow-vs-outflow.jpg" alt="Cash Inflow vs Outflow: What's the Difference?" style="zoom:80%;" />
-
+<p align="center">
+  <img src="https://www.freshbooks.com/wp-content/uploads/2021/09/cash-inflow-vs-outflow.jpg" alt="Image" width="700" height="400">
+</p>
 
 ## Background
 
@@ -138,37 +139,46 @@ The scoring function f(*) is not for public.
 
 - Time Series Analysis and Visualization
 
-![image-20230819151048749](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819151048749.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/bd3aaba0-135c-475a-ba3b-c0681e29400f)
+
 
 - Difference in Purchase and Redemption Total Amounts from Monday to Sunday
 
-<div style="display: flex;">     <div style="width: 40%;">         <img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819150254859.png" style="width: 100%;">     </div>     <div style="width: 60%;">         <img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819150721521.png" style="width: 100%;">         <img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819150501113.png" style="width: 100%;">     </div> </div>
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/a66e9deb-b701-44c5-a5a7-fbd51769e5fb)
+
 
 - Month Feature Analysis
 
-![image-20230819151408894](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819151408894.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/d991c6ba-78e7-4f0e-abfc-6d296969d241)
+
 
 - Date Feature Analysis
 
-![image-20230819151506607](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819151506607.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/31d287e2-0b14-4e17-8114-98201596aa96)
+
 
 - Holiday Analysis
 
-![image-20230819151925413](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819151925413.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/2d5e37a9-8404-4afd-92f4-469ceb44dbe1)
+
 
 - Analysis of Large Anomalous Transactions
 
-![image-20230819152051304](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819152051304.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/a25f4db3-8f24-418b-b38e-bd642786573a)
+
 
 - Correlation Analysis
 
-<img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819152246855.png" alt="image-20230819152246855" style="zoom:50%;" />
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/f9fba23b-b652-4a7e-97d2-8359b32cdfee)
+
 
 - Analysis of Bank and Alipay Interest Rates
 
-![image-20230819152605704](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819152605704.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/511e17d5-c143-439d-818d-4b7fcd883324)
 
-![image-20230819152524624](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819152524624.png)
+
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/5f89cb95-74c6-4425-b352-328eae65851b)
+
 
 ### 2. Model Baseline
 
@@ -346,9 +356,13 @@ We eliminated features that are highly correlated with each other. In other word
 
 **Winning Features Selection**
 
-![image-20230819155223760](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819155223760.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/c351acc8-1f84-4b97-97a4-953c1791455d)
 
-<img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819155240543.png" alt="image-20230819155240543" style="zoom:50%;" />
+
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/f0af7498-151d-4e32-8e2b-64afc4b6afdf" alt="Image" width="400" height="200">
+</p>
+
 
 ### 4. Model Development & Comparison
 
@@ -356,8 +370,15 @@ Developed a diverse set of over 10 systematic forecasting models, including univ
 
 Utilized innovative techniques, such as weighted averaging of purchase and redemption errors, leading to the identification of the best-performing model—LSTM—exhibiting an impressive uplift in predictive accuracy.
 
-![image-20230819155436110](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819155436110.png)
+![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/bdaebde3-8af0-4c43-a9b1-05ee6a01887d)
 
-<img src="https://ice.frostsky.com/2023/08/19/ebc04d85bdb7e8fb8da494e39a6c9b9d.png" alt="ebc04d85bdb7e8fb8da494e39a6c9b9d.png" border="0">
 
-![image-20230819155632270](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230819155632270.png)
+<p align="center">
+  <img src="https://ice.frostsky.com/2023/08/19/ebc04d85bdb7e8fb8da494e39a6c9b9d.png" alt="Image" width="600" height="310">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/ff60b0cf-40bf-46bb-a821-f570545e002d" alt="Image" width="600" height="310">
+</p>
+
