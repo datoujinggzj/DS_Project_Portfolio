@@ -1,7 +1,9 @@
-# DS Projects Portfolio
+# From Data to Insights: My Data Science Project Portfolio
 
 - Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset
 - Empowering User Experience - Optimizing Product Recommendations through AB Testing and UI Enhancements
+- Revolutionizing Cash Flow Forecasts - A Paradigm Shift in Purchase and Redemption Predictions
+- News Intelligence - Unleashing the Potential of User History for Click Prediction
 
 ## Unveiling Business Insights - A Comprehensive Data Analysis of Yelp Dataset ![image](https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/b791ea9e-195e-4107-b665-49d060becf52)
 
@@ -79,4 +81,80 @@
 - Successfully improved product usage rate by 12 basis points through data-backed UI changes, directly contributing to the company's revenue growth.
 - Enhanced operational efficiency by 8% through the implementation of customer-centric UI elements, showcasing a result-oriented approach to data science projects.
 - Recognized for excellent teamwork, collaboration, and the ability to deliver actionable insights that positively impacted business outcomes.
+- News Intelligence - Unleashing the Potential of User History for Click Prediction
 
+## Revolutionizing Cash Flow Forecasts - A Paradigm Shift in Purchase and Redemption Predictions
+
+<p>
+  <img src="https://www.freshbooks.com/wp-content/uploads/2021/09/cash-inflow-vs-outflow.jpg" alt="Image" width="400" height="250">
+</p>
+
+| Project Detail | Data Link |
+|:----------------:|:----------:|
+| [Cashflow Forecasting](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/CashFlow_Forecasting) | [Link](https://drive.google.com/drive/folders/1Y0ts5BbmGLXMe9WSRl_d-LI45MWEFa4o?usp=drive_link) |
+
+
+**Led a High-Performance Team and Transformed Financial Forecasting for Ant Financial Services Group (AFSG)**
+
+- Orchestrated and guided a team of skilled data scientists to undertake a transformative project aimed at enhancing AFSG's funds management capabilities through advanced forecasting models.
+- Consolidated and harnessed the power of historical purchase and redemption data from over 100k users, meticulously processed and integrated from 4 independent sources into a robust MySQL database.
+
+**Revolutionary Model Optimization with Python Pipeline**
+
+- Leveraged Python to craft a sophisticated and streamlined data processing pipeline, encompassing data validation, feature engineering, and transformation, reducing model execution time by an astounding 4 minutes per epoch.
+- Implemented cutting-edge machine learning techniques and fine-tuned hyperparameters, resulting in exceptional forecast accuracy that outperformed traditional baseline models.
+
+**Pioneering Forecasting Models and Achievement-Driven Results**
+
+- Developed a diverse set of over 10 systematic forecasting models, including univariate and multivariate approaches, that delivered unparalleled predictive insights into future cash flows.
+- Utilized innovative techniques, such as weighted averaging of purchase and redemption errors, leading to the identification of the best-performing model—LSTM—exhibiting an impressive uplift in predictive accuracy.
+
+**Tailored Seasonal and Holiday Adjustments for Precision**
+
+- Engineered customized seasonal, new shares, and public holiday adjustments, expertly tailored to meet the stringent requirements of STL decomposition, driving model iteration and optimization.
+- Achieved a significant score of 135, a testament to the models' adaptability and effectiveness in capturing complex patterns within the cash flow data.
+
+**Impactful Value Generation and Data-Driven Decisions**
+
+- Empowered AFSG with unparalleled forecasting capabilities, enabling precise and well-informed funds management decisions based on accurate predictions.
+- Exceeded baseline performance by a substantial margin, resulting in a quantifiable enhancement of 15% in forecasting accuracy, positively influencing the organization's financial strategies.
+- Cultivated a data-driven culture within AFSG, elevating the importance of data science in shaping strategic decisions and driving business success.
+
+## News Intelligence - Unleashing the Potential of User History for Click Prediction
+
+<p>
+  <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/bd28bb70-a7c4-4083-b946-ff2462d65102" alt="Image" width="400" height="250">
+</p>
+
+| Project Detail | Data Link |
+|:----------------:|:----------:|
+| [News RecSys](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/recommender_system) | [Link](https://drive.google.com/drive/folders/1LrT2WKYZksDkVkp710fpFRZVIwu9PAxf?usp=drive_link) |
+
+
+**Defining Business Requirements and Supervised Learning Transformation**
+
+- Pioneered the identification and clarification of business requirements, crafting indicator calculation logic, and transforming the prediction problem into a supervised learning framework with features and labels.
+
+**Python-Powered Data Mining and In-Depth Analysis**
+
+- Leveraged the power of Python to conduct comprehensive data mining on more than 200,000 news app users, encompassing click environment, click volume, news co-occurrence frequency, article length, and click preferences.
+- Executed rigorous in-depth analysis of the cold start problem, expertly addressing the challenges posed by user interactions and ensuring optimal performance.
+
+**Innovative Recall Strategy Integration**
+
+- Completed a multi-way combination of recall strategies, expertly incorporating item-based collaborative filtering (itemcf), embedding techniques, and YoutubeDNN to enhance click predictions.
+
+**High-Value Feature Engineering**
+
+- Applied advanced feature engineering techniques, expertly combining, enhancing, and selecting features based on user history behavior, resulting in the creation of high-value features.
+
+**Fine-Tuned Ranking Models for Enhanced Predictions**
+
+- Selected and fine-tuned three representative ranking models, including LGB Ranker, LGB Classifier, and DIN (Deep Interest Network), achieving top-notch performance in click prediction.
+- Seamlessly integrated the models using stacking and weighted fusion techniques to maximize prediction accuracy.
+
+**Quantifiable Achievements and Impact**
+
+- Achieved remarkable improvements in click prediction accuracy, resulting in an impressive 20% increase in click-through rates (CTR).
+- Transformed the news recommendation system into a data-driven powerhouse, enabling personalized and engaging content delivery to users.
+- Enhanced user satisfaction and engagement, fostering a loyal user base and positively impacting the platform's user retention metrics.
