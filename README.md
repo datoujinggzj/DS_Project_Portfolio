@@ -95,9 +95,6 @@
   <img src="https://www.freshbooks.com/wp-content/uploads/2021/09/cash-inflow-vs-outflow.jpg" alt="Image" width="400" height="250">
 </p>
 
-| Project Detail | Data Link |
-|:----------------:|:----------:|
-| [Cashflow Forecasting](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/CashFlow_Forecasting) | [Link](https://drive.google.com/drive/folders/1Y0ts5BbmGLXMe9WSRl_d-LI45MWEFa4o?usp=drive_link) |
 
 
 **Led a High-Performance Team and Transformed Financial Forecasting for Ant Financial Services Group (AFSG)**
@@ -131,10 +128,6 @@
 <p>
   <img src="https://github.com/datoujinggzj/DS_Project_Portfolio/assets/99417740/bd28bb70-a7c4-4083-b946-ff2462d65102" alt="Image" width="400" height="250">
 </p>
-
-| Project Detail | Data Link |
-|:----------------:|:----------:|
-| [News RecSys](https://github.com/datoujinggzj/DS_Project_Portfolio/tree/main/recommender_system) | [Link](https://drive.google.com/drive/folders/1LrT2WKYZksDkVkp710fpFRZVIwu9PAxf?usp=drive_link) |
 
 
 **Defining Business Requirements and Supervised Learning Transformation**
